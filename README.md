@@ -1,2 +1,2 @@
-# Mecanica de la partícula
+# Mecánica de la partícula
 Curso de introducción a Mecánica 
